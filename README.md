@@ -11,5 +11,5 @@ Retrofit
 3. RESTful (GET/PUT/POST/DELETE/HEAD)
 
 ####How to use?
-1. 
+1. Gradle: <code> compile 'com.squareup.retrofit:retrofit:x.x.x' </code>
 
