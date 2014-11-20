@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RetroPica</string>
+    <string name="actionbar_name">Retrofit + Picasso</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_picasso">picassoActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="info_detail">RetroPica is a basic application with Retrofit and Picasso.
+        Hopefully it will be applied to the StylePuzzle Inc. Android Application.
+
+        Thank you.
+    </string>
+
+</resources>
