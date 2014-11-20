@@ -10,7 +10,7 @@ Retrofit
 ####Introduction
 1. Retrofit Documentation [link](http://square.github.io/retrofit/);
 2. Retrofit Principles: [Proxy Design Pattern]() & [Java Reflect & Dynamic Proxy]() & [Callback function]();
-3. Picasso Principles: [LRU Cache]() [] [Disk Cache]();
+3. Picasso Principles: [LRU Cache]() & [Disk Cache]();
 3. RESTful (GET/PUT/POST/DELETE/HEAD);
 4. The sample is used with Picasso 2.4.0 and Retrofit 1.7.1;
 
