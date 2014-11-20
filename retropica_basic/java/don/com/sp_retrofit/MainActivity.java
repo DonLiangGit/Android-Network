@@ -93,4 +93,9 @@ public class MainActivity extends Activity {
 //    public void onResume() {
 //        super.onResume();
 //    }
+    @Override
+    public void onBackPressed() {
+        moveTaskToBack(true);
+        return;
+    }
 }
