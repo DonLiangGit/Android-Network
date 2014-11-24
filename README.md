@@ -21,5 +21,12 @@ Retrofit
 4. Set RestAdapter, Instance an the interfaced defined previously and fetch the API based on the parameters,
 5. In onCreate() method, get the callback.
 
+OkHttp
+====
+####Introduction
+
+####How to use?
+1.
+
 Volley
 ====
