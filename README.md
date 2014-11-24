@@ -26,7 +26,12 @@ OkHttp
 ####Introduction
 
 ####How to use?
-1.
+1. Gradle: <code> compile 'com.squareup.okhttp:okhttp:x.x.x' </code>,
+2. Adding Internet Permission in AndroidManifest.xml,
+3. Setting OkHttpClient: <code>sample: OkHttpClient client = new OkHttpClient();</code>,
+4. Setting OkHttp Request: <code>sample: Request OkRequest = new Request.Builder().url(**url**).build();</code>
+5. Setting OkHttp Response: <code>sample: Response OkResponse = client.newCall(OkRequest).execute();</code>
+6. Getting the whole JSON string: <code>sample: String jsonString = OkResponse.body().string();
 
 Volley
 ====
