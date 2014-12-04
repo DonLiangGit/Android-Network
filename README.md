@@ -31,6 +31,8 @@ Retrofit
 Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley)  
 [Retrofit v.s. Volley](http://instructure.github.io/blog/2013/12/09/volley-vs-retrofit/)
 
+####Conclusion
+1. Retrofit supports Java NIO [link](http://shmilyaw-hotmail-com.iteye.com/blog/1896683)
 
 Volley
 ====
