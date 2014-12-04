@@ -9,7 +9,7 @@ Network Basic
 1. What happen after a url-input: [link](http://article.yeeyan.org/view/54517/91367)
 
 
-Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley)
+
 
 Retrofit
 ====
@@ -26,6 +26,8 @@ Retrofit
 3. Create a ClientClass, API_URL, Class for fetch JSON member, declare and define the interface(with RESTful APIs),
 4. Set RestAdapter, Instance an the interfaced defined previously and fetch the API based on the parameters,
 5. In onCreate() method, get the callback.
+
+Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley)
 
 OkHttp
 ====
