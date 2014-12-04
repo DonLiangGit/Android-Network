@@ -28,7 +28,7 @@ Retrofit
 4. Set RestAdapter, Instance an the interfaced defined previously and fetch the API based on the parameters,
 5. In onCreate() method, get the callback.
 
-Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley)
+Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley)  
 [Retrofit v.s. Volley](http://instructure.github.io/blog/2013/12/09/volley-vs-retrofit/)
 
 OkHttp
