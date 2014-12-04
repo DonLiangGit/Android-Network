@@ -31,6 +31,10 @@ Retrofit
 Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley)  
 [Retrofit v.s. Volley](http://instructure.github.io/blog/2013/12/09/volley-vs-retrofit/)
 
+
+Volley
+====
+
 OkHttp
 ====
 ####Introduction
@@ -44,5 +48,4 @@ OkHttp
 5. Setting OkHttp Response: <code>sample: Response OkResponse = client.newCall(OkRequest).execute();</code>
 6. Getting the whole JSON string: <code>sample: String jsonString = OkResponse.body().string();
 
-Volley
-====
+
