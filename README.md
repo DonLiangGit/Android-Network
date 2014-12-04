@@ -3,6 +3,12 @@ Android-Network
 
 Android Network Library &amp; Framework Analysis and Tutorial
 
+Network Basic
+====
+####Introduction
+1. What happen after a url-input: [link](http://article.yeeyan.org/view/54517/91367)
+
+
 Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902716/comparison-of-android-networking-libraries-okhttp-retrofit-volley)
 
 Retrofit
