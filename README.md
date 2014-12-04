@@ -32,7 +32,8 @@ Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902
 [Retrofit v.s. Volley](http://instructure.github.io/blog/2013/12/09/volley-vs-retrofit/)
 
 ####Conclusion
-1. Retrofit supports Java NIO [link](http://shmilyaw-hotmail-com.iteye.com/blog/1896683)
+1. Retrofit supports Java NIO [link](http://shmilyaw-hotmail-com.iteye.com/blog/1896683), we use Retrofit to improve IO performance(Blocking IO creates too much thread to handle jobs!)
+2. 
 
 Volley
 ====
