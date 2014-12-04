@@ -33,7 +33,7 @@ Reference: [OkHttp / Retrofit / Volley](http://stackoverflow.com/questions/16902
 
 ####Conclusion
 1. Retrofit supports Java NIO [link](http://shmilyaw-hotmail-com.iteye.com/blog/1896683), we use Retrofit to improve IO performance(Blocking IO creates too much thread to handle jobs!)
-2. 
+2. Retrofit uses #GSON# by default to convert HTTP bodies to and from JSON (so we do not need to use Jackson or write our own JSON parser instead)
 
 Volley
 ====
